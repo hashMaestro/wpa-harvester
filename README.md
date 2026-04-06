@@ -1,4 +1,3 @@
-# wpa-harvester
 # WPA2/3 Captive Portal Harvester
 
 A fully automated, headless-ready Evil Twin framework for Red Teaming and Wi-Fi security assessments. 
