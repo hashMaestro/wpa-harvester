@@ -1,0 +1,12 @@
+# Temporary files and logs
+creds.log
+portal.html
+rogue_server.py
+
+# Generated configs
+*.conf
+hostapd-rogue.conf
+dnsmasq-rogue.conf
+
+# Downloaded databases
+oui.txt
