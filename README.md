@@ -20,6 +20,7 @@ sudo apt install hostapd dnsmasq wget python3
 ```
 
 ##  Usage
+**Note:** Included templates are intentionally generic for demonstration purposes. Please craft custom payloads that align with your authorized Rules of Engagement (RoE).
 
 Make the script executable:
 ```bash
